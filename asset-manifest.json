@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/nd-website/static/css/main.5f361e03.chunk.css",
-    "main.js": "/nd-website/static/js/main.3a6cffe7.chunk.js",
-    "main.js.map": "/nd-website/static/js/main.3a6cffe7.chunk.js.map",
-    "runtime-main.js": "/nd-website/static/js/runtime-main.b67adbfa.js",
-    "runtime-main.js.map": "/nd-website/static/js/runtime-main.b67adbfa.js.map",
-    "static/js/2.4fdacfad.chunk.js": "/nd-website/static/js/2.4fdacfad.chunk.js",
-    "static/js/2.4fdacfad.chunk.js.map": "/nd-website/static/js/2.4fdacfad.chunk.js.map",
-    "index.html": "/nd-website/index.html",
-    "precache-manifest.1552cf1d7c4d3f7323275c39d811abe0.js": "/nd-website/precache-manifest.1552cf1d7c4d3f7323275c39d811abe0.js",
-    "service-worker.js": "/nd-website/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/nd-website/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.4fdacfad.chunk.js.LICENSE.txt": "/nd-website/static/js/2.4fdacfad.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/nd-website/static/media/logo.5d5d9eef.svg"
+    "main.css": "/nikhild-website/static/css/main.5f361e03.chunk.css",
+    "main.js": "/nikhild-website/static/js/main.f3587da0.chunk.js",
+    "main.js.map": "/nikhild-website/static/js/main.f3587da0.chunk.js.map",
+    "runtime-main.js": "/nikhild-website/static/js/runtime-main.4d395285.js",
+    "runtime-main.js.map": "/nikhild-website/static/js/runtime-main.4d395285.js.map",
+    "static/js/2.4fdacfad.chunk.js": "/nikhild-website/static/js/2.4fdacfad.chunk.js",
+    "static/js/2.4fdacfad.chunk.js.map": "/nikhild-website/static/js/2.4fdacfad.chunk.js.map",
+    "index.html": "/nikhild-website/index.html",
+    "precache-manifest.cfed57ca79975665795e4b45422f3abb.js": "/nikhild-website/precache-manifest.cfed57ca79975665795e4b45422f3abb.js",
+    "service-worker.js": "/nikhild-website/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/nikhild-website/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4fdacfad.chunk.js.LICENSE.txt": "/nikhild-website/static/js/2.4fdacfad.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nikhild-website/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b67adbfa.js",
+    "static/js/runtime-main.4d395285.js",
     "static/js/2.4fdacfad.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.3a6cffe7.chunk.js"
+    "static/js/main.f3587da0.chunk.js"
   ]
 }
