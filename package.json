@@ -2,7 +2,7 @@
   "name": "nd-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://NikhilDIL.github.io/nd-website",
+  "homepage": "http://NikhilDIL.github.io/nikhild-website",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
